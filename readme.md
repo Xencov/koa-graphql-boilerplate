@@ -1,6 +1,9 @@
 # Simple Koa - GraphQL - Mongoose ES6 Boilerplate
 
-### Setting up 
+### Setting up
+
+**Use node >= 8.10.0**
+ 
 Clone this repo and change details in package.json. Remove the .git directory and git init to start fresh.
 
 Read below for more!
