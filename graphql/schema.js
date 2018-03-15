@@ -5,7 +5,6 @@ const {
     GraphQLString,
 } = require('graphql');
 
-const compose = require('compose-function');
 const resolvers = require('./resolvers');
 const mutations = require('./mutations');
 const auth = require('../auth');
